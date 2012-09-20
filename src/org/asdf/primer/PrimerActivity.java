@@ -1,7 +1,7 @@
 package org.asdf.primer;
 
 import android.os.Bundle;
-import org.apache.cordova;
+import org.apache.cordova.*;
 
 public class PrimerActivity extends DroidGap {
 
